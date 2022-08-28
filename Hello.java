@@ -5,7 +5,7 @@ class Hello
 public static void main(String args[])
 {
   
-System.out.println("hello worldhhhhhhhhhhhhhhhiiiiisssss");
+System.out.println("hello world");
 }
 
 }
